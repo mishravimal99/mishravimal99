@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<!-- Namaste 🙏 -->
 
 <!--
 **mishravimal99/mishravimal99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +17,3 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=mishravimal99&color=blue&style=plastic&label=Github+Profile+Views)
 
- ![Visitor Count](https://profile-counter.glitch.me/{mishravimal99}/count.svg)
