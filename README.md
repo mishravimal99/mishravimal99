@@ -4,7 +4,7 @@
 
 <h2> Hi there ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <p align="center">
-  <b><i>Let's connect! Find me on the web.</i></b>
+  <b><i>Let's connect! Find me on the web.</i></b></p>
 [<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]:[LinkedIn]
 [<img height="30" src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][Facebook]
 [<img height="30" src= "https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />][Whatsapp]
