@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 * 🌱 I’m currently learning competitive programming.
 * 🤔 I’m looking for help with my portfolio website.
 * 💬 Ask me about anything for help.
-* ⚡ Fun fact: Wehn I'm not coding, I am busy playing <img src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike">
+* ⚡ Fun fact: When I'm not coding, I am busy playing <img height="20" src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike">
 
 ![](https://komarev.com/ghpvc/?username=mishravimal99&color=blue&style=plastic&label=Github+Profile+Views)
 
