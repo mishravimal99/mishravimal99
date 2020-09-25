@@ -14,6 +14,7 @@
 **mishravimal99/mishravimal99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+
 * 🔭 I’m currently working on myself.
 * 🌱 I’m currently learning competitive programming.
 * 🤔 I’m looking for help with my portfolio website.
@@ -24,6 +25,6 @@ Here are some ideas to get you started:
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories 😊 !</h3>
 <p align="center">
-<img align="center"  height="200" src="https://thumbs.gfycat.com/TintedFemaleFieldspaniel.webp">
+<img align="center"  height="200" src="https://thumbs.gfycat.com/TintedFemaleFieldspaniel.webp"></p>
 [linkedin]: https://www.linkedin.com/in/vimal-mishra-95462b187/
 [Facebook]: https://www.facebook.com/REYAN.SINGH.75436/
