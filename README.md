@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=mishravimal99&color=blue&style=plastic&label=Github+Profile+Views)
 
+ ![Visitor Count](https://profile-counter.glitch.me/{mishravimal99}/count.svg)
