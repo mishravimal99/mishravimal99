@@ -24,7 +24,15 @@ Here are some ideas to get you started:
 * ⚡ Fun fact: When I'm not coding, I am busy playing <img height="20" src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike">
 
 ![](https://komarev.com/ghpvc/?username=mishravimal99&color=blue&style=plastic&label=Github+Profile+Views)
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishravimal99&layout=compact&hide=html&hide_border=true,issues&theme=gruvbox" alt="mishravimal99" />
+<br />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mishravimal99&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox" alt="mishravimal99" />
+<br />
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories 😊 !</h3>
 
 [linkedin]: https://www.linkedin.com/in/vimal-mishra-95462b187/
