@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mishravimal99&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox" alt="mishravimal99" />
 <br />
 <br /><br /><br /><br />
+<br /><br /><br /><br />
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories 😊 !</h3>
 
 [linkedin]: https://www.linkedin.com/in/vimal-mishra-95462b187/
