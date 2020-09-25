@@ -8,6 +8,8 @@
   <b><i>Let's connect! Find me on the web.</i></b><br><br>
 [<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img height="30" src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][Facebook]
+
+
 <br />
 <hr />
 <!--
@@ -24,7 +26,6 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=mishravimal99&color=blue&style=plastic&label=Github+Profile+Views)
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories 😊 !</h3>
-<p align="center">
-<img align="center"  height="200" src="https://thumbs.gfycat.com/TintedFemaleFieldspaniel.webp"></p>
+
 [linkedin]: https://www.linkedin.com/in/vimal-mishra-95462b187/
 [Facebook]: https://www.facebook.com/REYAN.SINGH.75436/
