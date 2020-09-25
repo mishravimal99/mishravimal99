@@ -4,6 +4,8 @@
 
 <h2> Hi there ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <p align="center">
+  
+<img height="50" src="https://thumbs.gfycat.com/TintedFemaleFieldspaniel.webp">
   <b><i>Let's connect! Find me on the web.</i></b>
 [<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img height="30" src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][Facebook]
@@ -31,4 +33,3 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/vimal-mishra-95462b187/
 [Facebook]: https://www.facebook.com/REYAN.SINGH.75436/
-<img src="https://thumbs.gfycat.com/TintedFemaleFieldspaniel.webp">
