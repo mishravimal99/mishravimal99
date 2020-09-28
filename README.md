@@ -22,15 +22,14 @@ Here are some ideas to get you started:
 * 🌱 I’m currently learning competitive programming.<br>
 * 🤔 I’m looking for help with my portfolio website.<br>
 * 💬 Ask me about anything for help.<br>
-* ⚡ Fun fact: When I'm not coding, I am busy playing <img height="20" src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike"><br>
+* ⚡ Fun fact: When I'm not coding, I am busy playing <img height="20" src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike">
 
 ![](https://komarev.com/ghpvc/?username=mishravimal99&color=blue&style=plastic&label=Github+Profile+Views)
 ### Blogs posts
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishravimal99&layout=compact&hide=html&hide_border=true,issues&theme=gruvbox" alt="mishravimal99" />
-<br />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mishravimal99&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox" alt="mishravimal99" />
+<code><img height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=mishravimal99&show_icons=true&theme=dracula"></code>
+<code><img height="250" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishravimal99&theme=dracula"></code>
 <br />
 <br /><br /><br /><br />
 <br /><br /><br /><br />
