@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 * 🌱 I’m currently learning competitive programming.<br>
 * 🤔 I’m looking for help with my portfolio website.<br>
 * 💬 Ask me about anything for help.<br>
-* ⚡ Fun fact:<img  height="20" src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike">
-
+* ⚡ Fun fact:<code><img  height="20" src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike"></code>
 ![](https://komarev.com/ghpvc/?username=mishravimal99&color=blue&style=plastic&label=Github+Profile+Views)
 ### Blogs posts
 <br>
