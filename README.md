@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 <code><img height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=mishravimal99&show_icons=true&theme=dracula"></code>
 <code><img height="250" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishravimal99&theme=dracula"></code>
 <br />
-<br /><br /><br /><br />
-<br /><br /><br /><br />
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories 😊 !</h3>
 
 [linkedin]: https://www.linkedin.com/in/vimal-mishra-95462b187/
