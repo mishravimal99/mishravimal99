@@ -15,9 +15,9 @@
     <a href="https://auth.geeksforgeeks.org/user/vimalmishracs18/profile">
         <img height=30 src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png">
     </a>
-    <a href="https://www.codechef.com/users/mishravimal99">
-        <img height=33 src="https://github.com/mishravimal99/mishravimal99/blob/master/codechef%20(1).svg"> <b>Codechef<b>
-    </a>
+    <code><a href="https://www.codechef.com/users/mishravimal99">
+        <img height=33 src="https://github.com/mishravimal99/mishravimal99/blob/master/codechef%20(1).svg"> <span style="color:black"><b>Codechef<b></span>
+  </a></code>
 
 <br />
 <hr />
