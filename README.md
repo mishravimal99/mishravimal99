@@ -10,10 +10,13 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img height="30" src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][Facebook]
     <a href="https://www.hackerrank.com/_181500792">
-        <img height=35 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+        <img height=30 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
     <a href="https://auth.geeksforgeeks.org/user/vimalmishracs18/profile">
-        <img height=35 src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png">
+        <img height=30 src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png">
+    </a>
+    <a href="https://www.codechef.com/users/mishravimal99">
+        <img height=30 src="https://www.kindpng.com/picc/m/290-2901833_codechef-is-a-non-commercial-competitive-programming-signage.png">
     </a>
 
 <br />
