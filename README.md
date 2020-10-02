@@ -9,11 +9,12 @@
   <b><i>Let's connect! Find me on the web.</i></b><br><br>
 [<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img height="30" src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][Facebook]
-<p>
     <a href="https://www.hackerrank.com/_181500792">
-        <img height=35 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
-    </a> Hackerrank
-</p>
+        <img height=30 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/vimalmishracs18/profile">
+        <img height=30 src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200X200.png">
+    </a>
 
 <br />
 <hr />
