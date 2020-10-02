@@ -16,7 +16,7 @@
         <img height=30 src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png">
     </a>
     <a href="https://www.codechef.com/users/mishravimal99">
-        <img height=30 src="https://www.kindpng.com/picc/m/290-2901833_codechef-is-a-non-commercial-competitive-programming-signage.png">
+        <img height=30 src="https://www.codechef.com/sites/all/themes/abessive/logo.png">
     </a>
 
 <br />
