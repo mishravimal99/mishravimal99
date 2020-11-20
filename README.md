@@ -5,7 +5,7 @@
 
 <img align="right" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" height="150px" />
 <p align="center">
-
+<!--
   <b><i>Let's connect! Find me on the web.</i></b><br><br>
   <a href="https://leetcode.com/mishravimal99/">
     <img height=30 img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode">
@@ -21,7 +21,7 @@
     <code><a href="https://www.codechef.com/users/mishravimal99">
         <img height=33 src="https://github.com/mishravimal99/mishravimal99/blob/master/codechef%20(1).svg"> <span style="color:black"><b>Codechef<b></span>
   </a></code>
-
+-->
 <br />
 <hr />
 <!--
