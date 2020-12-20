@@ -4,8 +4,9 @@
 <h2> Hi everyone ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align="right" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" height="150px" width="170px"/>
-[![trophy](https://github-profile-trophy.vercel.app/mishravimal99=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="left">
+  <img width="330" src="https://user-images.githubusercontent.com/6661165/91659474-c07f7400-eb0a-11ea-84f2-eb6b42547829.png">
+</p>
 <p align="center">
 <!--
   <b><i>Let's connect! Find me on the web.</i></b><br><br>
