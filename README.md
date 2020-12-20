@@ -4,6 +4,8 @@
 <h2> Hi everyone ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align="right" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" height="150px" />
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amans2206" alt="amans2206" /></a> </p>
 <p align="center">
 <!--
   <b><i>Let's connect! Find me on the web.</i></b><br><br>
