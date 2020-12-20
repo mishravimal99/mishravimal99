@@ -6,7 +6,7 @@
 <img align="right" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" height="150px" width="170px"/>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishravimal99" alt="mishravimal99" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=mishravimal99&theme=dracula" alt="mishravimal99" /></a> </p>
 <p align="center">
 <!--
   <b><i>Let's connect! Find me on the web.</i></b><br><br>
