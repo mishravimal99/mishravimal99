@@ -31,9 +31,8 @@ Here are some ideas to get you started:
 -->
 * 🔭 I’m currently working on myself.<br>
 * 🌱 I’m currently learning competitive programming.<br>
-* 🤔 I’m looking for help with my portfolio website.<br>
 * 💬 Ask me about anything for help.<br>
-* ⚡ Fun fact:When I am not working , I am busy playing <code><img  height="20" src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike"></code>
+* ⚡ Fun fact:When I am not working , I am busy exploring something.
 
 
 ![](https://komarev.com/ghpvc/?username=mishravimal99&color=blue&style=plastic&label=Github+Profile+Views)
@@ -41,4 +40,3 @@ Here are some ideas to get you started:
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories 😊 !</h3>
 
 [linkedin]: https://www.linkedin.com/in/vimal-mishra-95462b187/
-[Facebook]: https://www.facebook.com/REYAN.SINGH.75436/
